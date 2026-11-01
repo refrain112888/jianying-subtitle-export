@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 导出的字幕文件不入库
+*.srt
+
+# 临时文件
+repo_*.txt
